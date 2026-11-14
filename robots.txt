@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dijunxin3.github.io/yingshiwangy/sitemap.xml
